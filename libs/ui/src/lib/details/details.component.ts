@@ -10,7 +10,11 @@ export class DetailsComponent {
 
   constructor() {
     const a = add(4, 9);
+    const y = add(17, 222);
+
     console.log('b', a);
+    console.log('y', y);
+
   }
 
 }
