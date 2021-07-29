@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "init-ui": {
+      "factory": "./src/generators/init-ui/generator",
+      "schema": "./src/generators/init-ui/schema.json",
+      "description": "init-ui generator"
+    }
+  }
+}

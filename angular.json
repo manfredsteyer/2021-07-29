@@ -247,7 +247,7 @@
       "prefix": "core",
       "architect": {
         "build": {
-          "builder": "@nrwl/angular:ng-packagr-lite",
+          "builder": "@nrwl/angular:package",
           "outputs": ["dist/libs/utils2"],
           "options": {
             "project": "libs/utils2/ng-package.json"
