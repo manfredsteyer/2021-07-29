@@ -1,0 +1,21 @@
+{
+  "name": "@core/auth",
+  "description": "Best auth lib ever!",
+  "version": "12.1.1",
+  "author": {
+    "name": "Ich"
+  },
+  "repository": {
+    "directory": "myDir",
+    "type": "git",
+    "url": "http://here/there"
+  },
+  "license": "INTERN",
+  "peerDependencies": {
+    "@angular/common": ">= 11.0.0 < 13.0.0",
+    "@angular/core": ">= 11.0.0 < 13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}

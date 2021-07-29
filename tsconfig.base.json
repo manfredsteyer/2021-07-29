@@ -14,7 +14,13 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@core/auth": ["libs/auth/src/index.ts"],
+      "@core/ui": ["libs/ui/src/index.ts"],
+      "@core/utils": ["libs/utils/src/index.ts"],
+      "@core/utils2": ["libs/utils2/src/index.ts"],
+      "@core/utils3": ["libs/utils3/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

@@ -27,12 +27,27 @@
     ]
   },
   "projects": {
+    "auth": {
+      "tags": []
+    },
     "playground": {
       "tags": []
     },
     "playground-e2e": {
       "tags": [],
       "implicitDependencies": ["playground"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "utils": {
+      "tags": []
+    },
+    "utils2": {
+      "tags": []
+    },
+    "utils3": {
+      "tags": []
     }
   }
 }
