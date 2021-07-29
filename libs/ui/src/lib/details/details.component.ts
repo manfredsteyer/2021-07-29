@@ -10,7 +10,7 @@ export class DetailsComponent {
 
   constructor() {
     const a = add(4, 9);
-    console.log('a', a);
+    console.log('b', a);
   }
 
 }
